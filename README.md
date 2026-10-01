@@ -2,6 +2,9 @@
 # 🏅 SAS Viya Learning Badge Portfolio
 
 This repository serves as a dedicated, verifiable home for my technical credential earned in advanced analytics and data science workflows.
+<a href="https://www.credly.com/badges/76e54a82-792a-4deb-94f2-b7f0517e87a7/public_url">
+    <img src="https://credly.com"></img>
+</a>
 
 <p align="center">
   <a href="https://credly.com" target="_blank">
