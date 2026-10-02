@@ -39,6 +39,60 @@ This repository serves as a dedicated, verifiable home for my technical credenti
 </p>
 
 ---
+# 🏅 Google Developer Profile
 
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/profile/created-profile?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 1st Badge</b>
+  </a>
+  <br />
+</p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/codelabs/first-codelab?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 2nd Badge</b>
+  </a>
+  <br />
+</p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-kotlin-pathway-one?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 3rd Badge</b>
+  </a>
+  <br />
+</p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/playlists/first-playlist?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 4th Badge</b>
+  </a>
+  <br />
+</p>
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/events/community/dsc-2022-solution-challenge/workshop-participant?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 5th Badge</b>
+  </a>
+  <br />
+</p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 6th Badge</b>
+  </a>
+  <br />
+</p>
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-kotlin-pathway-two?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 7th Badge</b>
+  </a>
+  <br />
+</p>
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-kotlin-pathway-three?u=VartikaRaj" target="_blank">
+    <b>Google developer profile 8th Badge</b>
+  </a>
+  <br />
+</p>
 
 ---
