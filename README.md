@@ -47,7 +47,7 @@ This repository serves as a dedicated, verifiable home for my technical credenti
     <b>Google developer profile 1st Badge</b>
   </a>
   <br />
-</p> ![created_profile.svg]
+</p> 
 
 <p align="center">
   <a href="https://developers.google.com/profile/badges/codelabs/first-codelab?u=VartikaRaj" target="_blank">
